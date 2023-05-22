@@ -13,9 +13,9 @@ or
 ### EncodingFormat:
 There's are four encoding options
 
-- (urlLegacy) Leagcy URL Encoding
-- (url3986) URL Encoding (RFC 3986)
-- (base64) Base64 Encoding
+- ``urlLegacy`` Leagcy URL Encoding
+- ``url3986`` URL Encoding (RFC 3986)
+- ``base64`` Base64 Encoding
 
 The last one, HTML Codes, will only be used if none of those options are specified
 
@@ -48,9 +48,9 @@ The `opentdb_questions.json` file contains all the verified questions scraped fr
 
 ``node src/index.js --beautify`` (encoded with HTML Codes, beautified)
 
-`` npm start -- base64`` (encoded with Base64, not beautified)
+``npm start -- base64`` (encoded with Base64, not beautified)
 
 ## License
 
-All data provided by openTDB is available under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). This code to scrape these question is however under the MIT license. Both licenses are available under the LICENSE file
+All data provided by openTDB is available under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). This code to scrape these question is however under the [ISC license](https://choosealicense.com/licenses/isc/). Both licenses are available under the LICENSE file
 
