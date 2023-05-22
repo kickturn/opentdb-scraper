@@ -29,7 +29,7 @@ HTML Code:
 Legacy URL Encoding:
 > Don%27t+forget+that+%CF%80+%3D+3.14+%26+doesn%27t+equal+3.
 
-URL Encoding (RFC 3986):
+URL Encoding ([RFC 3986](https://datatracker.ietf.org/doc/html/rfc3986)):
 > Don%27t%20forget%20that%20%CF%80%20%3D%203.14%20%26%20doesn%27t%20equal%203.
 
 Base64 Encoding:
@@ -52,5 +52,5 @@ The `opentdb_questions.json` file contains all the verified questions scraped fr
 
 ## License
 
-All data provided by openTDB is available under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). This code to scrape these question is however under the [ISC license](https://choosealicense.com/licenses/isc/). Both licenses are available under the LICENSE file
+All data provided by openTDB is available under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). This code to scrape these question is however under the [ISC license](https://choosealicense.com/licenses/isc/). Both licenses are available [under the LICENSE file](https://github.com/kickturn/opentdb-scraper/blob/master/LICENSE).
 
