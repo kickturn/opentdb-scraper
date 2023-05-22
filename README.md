@@ -52,5 +52,5 @@ The `opentdb_questions.json` file contains all the verified questions scraped fr
 
 ## License
 
-All data provided by openTDB is available under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). This code to scrape these question is however under the [ISC license](https://choosealicense.com/licenses/isc/). Both licenses are available under the LICENSE file
+All data provided by openTDB is available under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). This code to scrape these question is however under the [ISC license](https://choosealicense.com/licenses/isc/). Both licenses are available [under the LICENSE file](https://github.com/kickturn/opentdb-scraper/blob/master/LICENSE).
 
