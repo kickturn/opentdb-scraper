@@ -29,7 +29,7 @@ HTML Code:
 Legacy URL Encoding:
 > Don%27t+forget+that+%CF%80+%3D+3.14+%26+doesn%27t+equal+3.
 
-URL Encoding (RFC 3986):
+URL Encoding ([RFC 3986](https://datatracker.ietf.org/doc/html/rfc3986)):
 > Don%27t%20forget%20that%20%CF%80%20%3D%203.14%20%26%20doesn%27t%20equal%203.
 
 Base64 Encoding:
