@@ -1,0 +1,17 @@
+{
+  "name": "opentdb-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes OpenTDB questions",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "kickturn",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "node-fetch": "^3.3.1"
+  }
+}
