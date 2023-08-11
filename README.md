@@ -40,7 +40,7 @@ Beautifies the JSON with whitespace, if not specified the JSON will be compresse
 
 ## opentdb_questions.json
 
-The `opentdb_questions.json` file contains all the verified questions scraped from this bot. The other json file, `opentdb_questions_beautify.json`, is the same except beautified. These are encoded with the default HTML Codes. It has been updated since 5/22/2023
+The `opentdb_questions.json` file contains all the verified questions scraped from this bot. The other json file, `opentdb_questions_beautify.json`, is the same except beautified. These are encoded with the default HTML Codes. It has been updated since 5/22/2023 (4,098 questions)
 
 ## Examples
 
