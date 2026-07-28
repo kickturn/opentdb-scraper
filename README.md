@@ -34,7 +34,7 @@ Examples from OpenTDB:
 
 **HTML Code:**
 
-> Don't forget that π = 3.14 & doesn't equal 3.
+> Don&‌#039;t forget that &‌pi; = 3.14 &‌amp; doesn&‌#039;t equal 3.
 
 **Legacy URL Encoding:**
 
